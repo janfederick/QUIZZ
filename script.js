@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "What doesWhat is the longest word in the English language?",
+        question: "What is the longest word in the English language?",
         answers: [
             { text: "Antidisestablishmentarianism", correct: true },
             { text: "Hippopotomonstrosesquippedaliophobia", correct: false },
